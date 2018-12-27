@@ -11,6 +11,7 @@
     'depends': [
         'module_a12',
         'module_b12',
+        'module_c12',
     ],
     'website': 'https://github.com/OCA/vertical-medical',
     "license": "LGPL-3",
