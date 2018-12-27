@@ -9,7 +9,7 @@
     'summary': 'Based on ISO 15489',
     'category': 'Medical',
     'depends': [
-        'base',
+        'account',
     ],
     'website': 'https://github.com/OCA/vertical-medical',
     "license": "LGPL-3",
